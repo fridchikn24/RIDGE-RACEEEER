@@ -1,1 +1,1 @@
-Uses NumPy and Pandas to simulate data which is then modeled using an L2 regularized regression(Ridge Regression)
+Uses NumPy and Pandas to simulate data and used an L2 regularized regression(Ridge Regression) to model the data
